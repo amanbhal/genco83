@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*body{
+	width:1000px;
+	height:1000px;
+	
+}*/
+
+#view{
+	overflow-y:scroll;
+}
+
+#view ul.products li {
+    width: 200px;
+    display: inline-block;
+    vertical-align: top;
+	padding: 12px;
+	//margin: 2px auto 0 auto;
+	//transform:rotate(-5deg);
+	//-webkit-transform: rotate(7deg);
+	box-shadow:3px 3px 3px 2px rgba(0,0,0,0.75);
+	border-radius: 20px;
+}
+
+
+#view li:hover{
+	transform:rotate(7deg);
+	//transform:scale3d(1.2,1.2,1.2);
+	//overflow:visible;
+	-webkit-transform: rotate(7deg);
+	box-shadow:3px 3px 3px 2px rgba(0,0,0,0.75);
+	border-radius: 20px;
+}
+

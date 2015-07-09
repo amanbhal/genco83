@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery frameColor="0xFFFFFF" frameWidth="15" imagePadding="20" displayTime="6" enableRightClickOpen="true">
+
+<image>
+   <url>images/dscn0643_copy.jpg</url>
+   <caption>dscn0643_copy.jpg</caption>
+   <width>640</width>
+   <height>479</height>
+</image>
+<image>
+   <url>images/dscn0649.jpg</url>
+   <caption>dscn0649.jpg</caption>
+   <width>640</width>
+   <height>480</height>
+</image>
+<image>
+   <url>images/dscn0650.jpg</url>
+   <caption>dscn0650.jpg</caption>
+   <width>640</width>
+   <height>480</height>
+</image>
+<image>
+   <url>images/dscn0651.jpg</url>
+   <caption>dscn0651.jpg</caption>
+   <width>640</width>
+   <height>480</height>
+</image>
+<image>
+   <url>images/dsc04306.jpg</url>
+   <caption>SONY DSC</caption>
+   <width>640</width>
+   <height>426</height>
+</image>
+<image>
+   <url>images/dsc04307.jpg</url>
+   <caption>SONY DSC</caption>
+   <width>640</width>
+   <height>426</height>
+</image>
+</gallery>
